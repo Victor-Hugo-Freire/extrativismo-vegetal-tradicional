@@ -1,16 +1,14 @@
-# Extrativismo Vegetal Tradicional no Brasil
+# Tema: Extrativismo Vegetal Tradicional no Brasil
 
 **Feito por:**
 
-- Victor Hugo Freire Ribeiro: [https://github.com/Victor-Hugo-Freire](https://github.com/Victor-Hugo-Freire)
-- Gabriel Gomes Ortiz: [https://github.com/gabrielgomesortiz](https://github.com/gabrielgomesortiz)
-- David Schmidt: [https://github.com/Davidson6666](https://github.com/Davidson6666)
-- Alexandre Petri: [https://github.com/alexandrebpetri](https://github.com/alexandrebpetri)
-- Leonardo Ferreira Lima: [https://github.com/diekred](https://github.com/diekred)
+- Victor Hugo Freire Ribeiro;
+- Gabriel Gomes Ortiz;
+- David Schmidt;
+- Alexandre Petri;
+- Leonardo Ferreira Lima;
 
-**Fonte utilizada:** Roboto (`@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');`)
-
-## Resumo Completo do Tema: Extrativismo Vegetal Tradicional no Brasil
+## Resumo Completo do Trabalho: Extrativismo Vegetal Tradicional no Brasil
 
 ### 1. O que é Extrativismo Vegetal Tradicional?
 
@@ -54,6 +52,4 @@ Essa abordagem é um contraponto ao extrativismo predatório, que ignora a regen
 - **Reservas Extrativistas (RESEX)**: Unidades de conservação criadas para proteger os meios de vida e a cultura de populações extrativistas, garantindo o uso sustentável dos recursos naturais. Exemplos incluem a RESEX Chico Mendes (AC), a RESEX do Alto Juruá (AC), a RESEX do Rio Cajari (AP) e a RESEX Marinha de Soure (PA). Essas áreas são geridas pelas próprias comunidades, que estabelecem regras de uso e conservação.
 - **Movimentos Sociais**: O Conselho Nacional das Populações Extrativistas (CNS), fundado em 1985, articula politicamente diversos grupos de extrativistas, defendendo seus direitos territoriais, autonomia e contribuindo para a construção de políticas públicas de sustentabilidade. O CNS representa seringueiros, castanheiros, quebradeiras de coco, pescadores artesanais e outros povos da floresta.
 
-## Informações de Deploy (Espaço Reservado)
-
-Este espaço é reservado para futuras informações sobre o deploy do projeto.
+## Link do projeto:
