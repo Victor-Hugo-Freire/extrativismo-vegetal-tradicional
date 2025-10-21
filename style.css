@@ -381,13 +381,13 @@ main {
 /* Tornar a sobreposição de nome visível por padrão (sem precisar de hover) */
 .name-overlay {
   position: absolute;
-  bottom: 0;
+  bottom: 12px; /* movido ligeiramente para cima */
   left: 0;
   width: 100%;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
   color: #ffffff;
   text-align: center;
-  padding: 1.5rem 0.5rem 0.8rem;
+  padding: 1.3rem 0.5rem 0.6rem; /* reduzir levemente o padding inferior */
   font-size: 0.95rem;
   font-weight: 500;
   opacity: 1;
@@ -598,7 +598,8 @@ main {
   }
 
   .name-overlay {
-    font-size: 0.8rem;
-    padding: 1rem 0.3rem 0.5rem;
+    bottom: 7px; /* também elevar um pouco em telas pequenas */
+    font-size: 0.7rem;
+    padding: 0.9rem 0.3rem 0.45rem;
   }
 }
