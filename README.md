@@ -52,4 +52,4 @@ Essa abordagem é um contraponto ao extrativismo predatório, que ignora a regen
 - **Reservas Extrativistas (RESEX)**: Unidades de conservação criadas para proteger os meios de vida e a cultura de populações extrativistas, garantindo o uso sustentável dos recursos naturais. Exemplos incluem a RESEX Chico Mendes (AC), a RESEX do Alto Juruá (AC), a RESEX do Rio Cajari (AP) e a RESEX Marinha de Soure (PA). Essas áreas são geridas pelas próprias comunidades, que estabelecem regras de uso e conservação.
 - **Movimentos Sociais**: O Conselho Nacional das Populações Extrativistas (CNS), fundado em 1985, articula politicamente diversos grupos de extrativistas, defendendo seus direitos territoriais, autonomia e contribuindo para a construção de políticas públicas de sustentabilidade. O CNS representa seringueiros, castanheiros, quebradeiras de coco, pescadores artesanais e outros povos da floresta.
 
-## Link do projeto:
+## Link do projeto: https://victor-hugo-freire.github.io/extrativismo-vegetal-tradicional/
